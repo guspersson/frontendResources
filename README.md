@@ -28,3 +28,10 @@ CSS
 Correct way to use gradients - [link](http://codepen.io/thebabydino/full/pjxVWp/)
 
 ----------
+
+Design
+-------------
+
+Simple way of selecting a color scheme - [link](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
+
+----------
